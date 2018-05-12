@@ -1,0 +1,31 @@
+_repo: Dissertation-on-the-Progress-of-the-Fine-Arts_42371
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42371-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Scott, John Robert
+    gutenberg_agent_id: '41647'
+    url: http://www.gutenberg.org/2009/agents/41647
+description: ''
+gutenberg_issued: '2013-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42371'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Augustan Reprint Society, publication number 45
+subjects:
+- !lcsh 'Arts, British'
+- !lcc 'N'
+- !lcsh 'Aesthetics'
+- !lcsh 'Art'
+- !lcsh 'Art patronage -- Greece'
+- !lcsh 'Art and society -- Greece'
+- !lcsh 'Art patronage -- Great Britain'
+- !lcsh 'Arts, Greek'
+title: Dissertation on the Progress of the Fine Arts
+url: http://www.gutenberg.org/ebooks/42371
